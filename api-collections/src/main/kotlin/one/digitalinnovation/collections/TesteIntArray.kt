@@ -1,4 +1,4 @@
-package one.digitalinnovation.collection
+package one.digitalinnovation.collections
 
 fun main() {
     val values = IntArray(5)
@@ -24,7 +24,7 @@ fun main() {
 
     println("--------------------")
     values.sort()
-    for (valor in values){
+    for (valor in values) {
         println(valor)
     }
 }
