@@ -1,3 +1,3 @@
 # Projeto DigiOne Bank
 
-Projeto de Kotlin, para um sistema simples de bancos.
+Projeto de Kotlin, para aprender funcionalidades básicas.
